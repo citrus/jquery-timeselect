@@ -1,0 +1,18 @@
+.time-select {
+  position: relative;
+  white-space: nowrap;
+}
+.time-select a {
+  display: block;
+  float: left;
+  border: 1px solid #efefef;
+  background-color: #f9f9f9;
+  padding: 1px 5px;
+  margin: 3px 3px 0 0;
+  color: #777;
+  text-decoration: none;
+}
+.time-select a.selected,
+.time-select a:hover {
+  background-color: #C2F1FF;
+}
