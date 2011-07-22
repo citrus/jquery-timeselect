@@ -4,6 +4,11 @@ jQuery.timeselect.js
 Almost identical to [jquery.timepickr.js](http://haineault.com/media/jquery/ui-timepickr/page/), but roughly 10% it's size.
 
 
+### [Click here for a demo](http://citrus.github.com/jquery-timeselect)
+
+
+
+
 Usage
 -----
 
